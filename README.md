@@ -6,8 +6,8 @@ These share data are from my usual work and learning，hoping to help you，If y
 ## Share文档
 | Article | |
 | --------- | --------- |
-|[Vuex详解](https://github.com/stjw7098/h5-share/issues/1)|[vue原生ajax请求](https://github.com/stjw7098/h5-share/issues/2)|
-|[vue自定义过滤器 显示当前时间](https://github.com/stjw7098/h5-share/issues/3)|[自定义vue下拉刷新组件](https://github.com/stjw7098/h5-share/issues/4)|
-|[vue引入swiper](https://github.com/stjw7098/h5-share/issues/5)|[自定义Touch指令](https://github.com/stjw7098/h5-share/issues/6)|
-|[vue常用内置指令](https://github.com/stjw7098/h5-share/issues/7)|[基于 Vue 2.0 的移动 UI 组件库 WDUI](https://github.com/stjw7098/h5-share/issues8)|
+|[socket.io](https://github.com/stjw7098/h5-share/issues/1)|[jsonp原理](https://github.com/stjw7098/h5-share/issues/2)|
+|[svn和git区别](https://github.com/stjw7098/h5-share/issues/3)|[AMD和CMD](https://github.com/stjw7098/h5-share/issues/4)|
+|[js正则匹配域名](https://github.com/stjw7098/h5-share/issues/5)|[js变量和函数声明提前](https://github.com/stjw7098/h5-share/issues/6)|
+|[经典面试题](https://github.com/stjw7098/h5-share/issues/7)|[基于 Vue 2.0 的移动 UI 组件库 WDUI](https://github.com/stjw7098/h5-share/issues8)|
 |
