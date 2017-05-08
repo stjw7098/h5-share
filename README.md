@@ -15,7 +15,7 @@
 ## CSS
 | Article | Article |
 | --------- | --------- |
-|[CSS Flex布局](https://github.com/Wscats/Good-text-Share/issues/41)|[响应式布局 媒体查询](https://github.com/Wscats/Good-text-Share/issues/43)|
+|[CSS Flex布局](https://github.com/stjw7098/h5-share/issues/9)|[响应式布局 媒体查询](https://github.com/stjw7098/h5-share/issues/10)|
 |[CSS 语法参考](http://tympanus.net/codrops/css_reference)|[CSS3动画手册](http://isux.tencent.com/css3/index.html)|
 
 
