@@ -23,6 +23,11 @@
 | --------- | --------- |
 |[Cordova配置](https://github.com/stjw7098/h5-share/issues/15)||
 
+## 微信开发
+| Article | Article |
+| --------- | --------- |
+|[公众号开发](https://github.com/stjw7098/h5-share/issues/16)||
+
 ## CSS
 | Article | Article |
 | --------- | --------- |
